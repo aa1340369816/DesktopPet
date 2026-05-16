@@ -1,0 +1,5 @@
+Pillow
+pyinstaller
+pystray
+imageio
+imageio-ffmpeg
